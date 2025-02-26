@@ -17,9 +17,11 @@ Este é um jogo simples desenvolvido em **JavaScript**, onde o jogador deve adiv
 5. 🏆 Ao acertar, o botão de reiniciar será ativado para iniciar uma nova rodada.
 
 ## 🛠 Tecnologias Utilizadas
-- 🏗 **HTML**
-- 🎨 **CSS**
-- ⚡ **JavaScript**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
+</p>
 
 ## 🔮 Melhorias Futuras
 - ✅ Adicionar validação para impedir entradas inválidas (como letras ou números fora do intervalo).
@@ -33,4 +35,11 @@ Este é um jogo simples desenvolvido em **JavaScript**, onde o jogador deve adiv
 3. 🎉 Divirta-se jogando!
 
 ---
-👨‍💻 Criado por [@emarciel](https://github.com/emarciel)
+
+## 👨‍💻 Criado por
+<p>
+  <img src="https://github.com/emarciel.png" width="100" height="100" alt="Foto de perfil de emarciel">
+</p>
+<p>
+  <a href="https://github.com/emarciel">@emarciel</a>
+</p>
